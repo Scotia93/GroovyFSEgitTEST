@@ -40,6 +40,10 @@ public class Person
 	public int getAge()
 	{
 	}
+	public String printFullName()
+	{
+		system.out.println(firstName +" "+otherName+" "+lastName
+	}
 
 
 
