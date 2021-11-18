@@ -16,6 +16,28 @@ public class Person
 		lastName = value2;
 		otherName = "";
 	}
+	public String getfirstName()
+	{
+		return firstName;
+	}
+	public String getotherName()
+	{
+		return otherName;
+	}
+	public String getlastname()
+	{
+		return lastName;
+	}
+	public void String setfirstName()
+	{
+	}
+	pubic void String setotherName()
+	{
+	}
+	public void String setlastname()
+	{
+	}
+
 
 
 
