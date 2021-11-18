@@ -44,6 +44,10 @@ public class Person
 	{
 		system.out.println(firstName +" "+otherName+" "+lastName
 	}
+	public String toString()
+	{
+	}
+
 
 
 
