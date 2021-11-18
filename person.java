@@ -37,6 +37,9 @@ public class Person
 	public void String setlastname()
 	{
 	}
+	public int getAge()
+	{
+	}
 
 
 
